@@ -18,6 +18,8 @@ La diferencia esta en que `Int` (Integer) representa exclusivamente números ent
     num ---> conjunto de tipos numéricos
     int ---> un tipo especifíco de número entero
 ```
+![image alt](https://github.com/tako-wan/EstructurasDiscretas/blob/c2ca28b0635f8ae6a8d494a86ef9d74df4c0463c/Captura%20desde%202026-03-13%2014-20-13.png)
+
 En el ejemplo anterior podemos ver como el número `4` queda restringido a `Int` valor de tipo entero.
 
 - Canción "El pollito pío" (Recursión)
