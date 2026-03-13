@@ -8,6 +8,8 @@ Familiarizarnos con la implementación de funciones en el lenguaje Haskell utili
 
 1 dia y medio aprox.
 
+## Actividades
+
 - La función "esPar"
 
 ¿Cuál es tu lógica detrás de tu función? y ¿Por qué no se puede utilizar el operador lógico &&?

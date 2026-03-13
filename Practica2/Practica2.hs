@@ -1,3 +1,5 @@
+  module Practica2 (esPar) where
+
   import Data.Bits
 
 {- Función sayHello
